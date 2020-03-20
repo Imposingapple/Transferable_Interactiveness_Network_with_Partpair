@@ -1,0 +1,20 @@
+
+setting:     def
+exp_name:    rcnn_caffenet_ho_pconv_ip1_s
+score_blob:  n/a
+
+  mAP / mRec (full):      0.1780 / 0.5099
+
+  mAP / mRec (rare):      0.1379 / 0.5194
+  mAP / mRec (non-rare):  0.1900 / 0.5070
+
+
+setting:     ko
+exp_name:    rcnn_caffenet_ho_pconv_ip1_s
+score_blob:  n/a
+
+  mAP / mRec (full):      0.1988 / 0.5099
+
+  mAP / mRec (rare):      0.1571 / 0.5194
+  mAP / mRec (non-rare):  0.2112 / 0.5070
+
