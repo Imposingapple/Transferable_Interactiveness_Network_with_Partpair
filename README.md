@@ -2,7 +2,7 @@
 # TIN+: Transferable Interactiveness Network with Pairwise Body Part Hints             
 Improving the detection results of **CVPR2019** paper *"[Transferable Interactiveness Knowledge for Human-Object Interaction Detection](https://arxiv.org/abs/1811.08264)"*  with hints from **Pairwise Body Parts** detection described in **ECCV2018** paper "[Pairwise Body-Part Attention for Recognizing Human-Object Interactions](https://arxiv.org/abs/1807.10889)". The original implementation of **TIN** (Transferable Interactiveness Network) can be seen [Here](https://github.com/DirtyHarryLYL/Transferable-Interactiveness-Network). 
 
-The implementation for revised **TIN: Transferable Interactiveness Network** is created by **Haoping Chen**, SJTU. We only do the experiments on **HICO-DET** Dataset.
+The implementation for **TIN+** ,the revised **TIN** (Transferable Interactiveness Network) is created by **Haoping Chen**, SJTU. We only do the experiments on **HICO-DET** Dataset.
 
 Contact me in email: apple_chen@sjtu.edu.cn
 
